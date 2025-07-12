@@ -1,0 +1,66 @@
+{
+  "algebra": [
+    "Solve the equation: 2x + 5 = 13",
+    "Find the value of x in: 3x - 7 = 8",
+    "Solve the quadratic equation: x² + 5x + 6 = 0",
+    "Factor the expression: x² - 4",
+    "Expand (x + 2)(x - 3)",
+    "Solve the system: x + y = 5, 2x - y = 1"
+  ],
+  "calculus": [
+    "What is the derivative of x² + 3x + 1?",
+    "Find the derivative of sin(x)",
+    "Calculate the integral of x² dx",
+    "Find the limit of (x² - 1)/(x - 1) as x approaches 1",
+    "What is the derivative of e^x?",
+    "Calculate the integral of 1/x dx"
+  ],
+  "geometry": [
+    "Calculate the area of a circle with radius 5",
+    "Find the volume of a sphere with radius 3",
+    "Calculate the area of a rectangle with length 8 and width 6",
+    "Find the perimeter of a square with side length 4",
+    "Calculate the area of a triangle with base 6 and height 4",
+    "Find the volume of a cube with side length 3"
+  ],
+  "statistics": [
+    "Find the mean of the numbers: 2, 4, 6, 8, 10",
+    "Calculate the standard deviation of: 1, 2, 3, 4, 5",
+    "Find the probability of rolling a 6 on a fair die",
+    "What is the median of: 3, 7, 2, 9, 1, 5",
+    "Calculate the variance of: 10, 20, 30, 40, 50",
+    "Find the mode of: 1, 2, 2, 3, 4, 4, 4, 5"
+  ],
+  "trigonometry": [
+    "What is sin(30°)?",
+    "Calculate cos(60°)",
+    "Find tan(45°)",
+    "What is sin(π/2)?",
+    "Calculate cos(π)",
+    "Find the value of sin²(x) + cos²(x)"
+  ],
+  "linear_algebra": [
+    "Find the eigenvalues of the matrix [[2, 1], [1, 2]]",
+    "Calculate the determinant of [[3, 1], [2, 4]]",
+    "Find the inverse of [[1, 2], [3, 4]]",
+    "Solve the system: 2x + y = 5, x - y = 1",
+    "Find the rank of [[1, 2, 3], [4, 5, 6], [7, 8, 9]]",
+    "Calculate the dot product of [1, 2, 3] and [4, 5, 6]"
+  ],
+  "number_theory": [
+    "Is 17 a prime number?",
+    "Find the greatest common divisor of 48 and 18",
+    "Calculate the least common multiple of 12 and 18",
+    "What is 23 mod 7?",
+    "Find all factors of 24",
+    "Is 1001 divisible by 7?"
+  ],
+  "advanced": [
+    "Find the Taylor series expansion of e^x around x = 0",
+    "Calculate the Fourier transform of a sine wave",
+    "Solve the differential equation dy/dx = y",
+    "Find the Laplace transform of f(t) = t",
+    "Calculate the gradient of f(x,y) = x² + y²",
+    "Find the curl of the vector field F = (y, -x, 0)"
+  ]
+} 
